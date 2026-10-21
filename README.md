@@ -1,6 +1,6 @@
 # Olá, eu sou João Carvalho
 
-Desenvolvo projetos com **Python, Java e TypeScript**, explorando aplicações web e desktop, bancos de dados e automações.
+Desenvolvo projetos com explorando aplicações web e desktop, bancos de dados e automações.
 
 Neste perfil compartilho estudos e demonstrações de projetos. Meu portfólio público apresenta os fluxos, tecnologias e exemplos de uso; os códigos completos dos projetos apresentados são mantidos em repositórios privados.
 
