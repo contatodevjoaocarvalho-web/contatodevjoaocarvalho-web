@@ -12,7 +12,7 @@ Neste perfil compartilho estudos e demonstrações de projetos. Meu portfólio p
 ## Projetos em destaque
 
 - **SESlock Holmes:** TCC sobre observabilidade e investigação de eventos de e-mail.
-- **Dinheirômetro:** controle de despesas com filtros e gráficos em Python.
+- **Análise de Gastos:** controle de despesas com filtros e gráficos em Python.
 - **Sistema Biblioteca:** aplicação acadêmica de livros, clientes e reservas em Java.
 - **Optimus RH:** protótipo web de pré-cadastro e acompanhamento de processos.
 
